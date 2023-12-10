@@ -1,17 +1,29 @@
 + Available topics ( require at least 10 topics ) : 
 - The impact of socioeconomic status on access to healthcare
-- The impace of socioeconomic status on juvenile crimes
-- Social determinant of health behaviors and outcomes
 - Gender disparities in academic performances and subject preferences
-- The impact of cultural capital in education success
-- The impact of divorce on children
 - The effects of helicopter parenting on child development and well being
-- The impacts of childhood friendship in a person's later life
 
 + Criterions of ranking topic :
 - The academic sound of the topic name
-- The vocabulary usage of the topic;
+- The vocabulary usage of the topic
 - The quality of the articles
 - The level of interest of the topic
 - My understanding and enthusiam with the topic
+
++ The impact of socioeconomic status on access to healthcare :
+- Resources found : 
++ https://www.frontiersin.org/articles/10.3389/fpubh.2020.00231/full - The resource is onpoint, highly relevant, official, high quality
++ https://projects.iq.harvard.edu/files/isl/files/the_effects_of_socioeconomic_status_on_the_quality_and_accessibility_of_healthcare_services.pdf - Well it is from Harvard
++ https://www.journals.uchicago.edu/doi/full/10.1162/ajhe_a_00124 - From well-known authors
++ https://www.cmaj.ca/content/185/6/E263.full - The author is well respected
++ https://journals.sagepub.com/doi/full/10.1177/2150131917697439 - This article is highly relevant, high quality and the authors are highly  rated by academic community
++ https://www.sciencedirect.com/science/article/pii/S0167629616302545 - This article is written by well-known authors and highly relevant
+
+- Vocabulary found :
++ mediate by - A person's ability to access care is mediated by SES.
++ imply - Access to healthcare implies the availability of relevant and
++ gauge - this study gauged SES by examining race, and income to determine an individual or household’s SES
++ impediment -  research has indicated that those who are at the bottom of the socioeconomic ladder often face worse health outcomes than those at the top due to socioeconomic impediments
+
+
 
